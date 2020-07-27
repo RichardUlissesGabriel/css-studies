@@ -14,3 +14,7 @@ Custom neon button with a cool animation, example from this [YouTube video](http
 ## Custom Box info
 
 Custom Box info with cool border, example from this [YouTube video](https://www.youtube.com/watch?v=-1U62fdmCk4).
+
+## Social Media Icons Hover Effect
+
+Social Media icons, example from this [YouTube video](https://www.youtube.com/watch?v=SVY3Mbq2L_I).
