@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Slider images</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <section>
+      <img src="../assets/img1_large.jpg" id="slider">
+      <ul class="navigation">
+        <li onclick="imgSlider('../assets/img1_large.jpg')"><img src="../assets/img1_thumb.jpg" alt=""></li>
+        <li onclick="imgSlider('../assets/img2_large.jpg')"><img src="../assets/img2_thumb.jpg" alt=""></li>
+        <li onclick="imgSlider('../assets/img3_large.jpg')"><img src="../assets/img3_thumb.jpg" alt=""></li>
+        <li onclick="imgSlider('../assets/img4_large.jpg')"><img src="../assets/img4_thumb.jpg" alt=""></li>
+      </ul>
+      <h2>Image Slider</h2>
+    </section>
+    <script type="text/javascript">
+      function imgSlider(anything){
+        document.getElementById('slider').src = anything
+      }
+    </script>
+  </body>
+</html>
