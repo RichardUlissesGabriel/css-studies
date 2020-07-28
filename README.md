@@ -21,3 +21,7 @@ Social Media icons, example from this [YouTube video](https://www.youtube.com/wa
 ## Simple Slider Image
 
 Simple image Slider, example from this [YouTube video](https://www.youtube.com/watch?v=y0XHdEeEevs).
+
+## Product Card
+
+Product card, example from this [YouTube video](https://www.youtube.com/watch?v=jUByQLfakJ8).
