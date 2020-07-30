@@ -27,3 +27,6 @@ Input Animation, example from this [YouTube video](https://www.youtube.com/watch
 
 ## Custom login form
 example from this [YouTube video](https://www.youtube.com/watch?v=UJvL4i6UPbY).
+
+## Custom side bar
+example from this [YouTube video](https://www.youtube.com/watch?v=DvpSKoCyN5Q)
