@@ -30,3 +30,6 @@ example from this [YouTube video](https://www.youtube.com/watch?v=UJvL4i6UPbY).
 
 ## Custom side bar
 example from this [YouTube video](https://www.youtube.com/watch?v=DvpSKoCyN5Q)
+
+## Custom nav bar
+example from this [YouTube video](https://www.youtube.com/watch?v=gXkqy0b4M5g)
